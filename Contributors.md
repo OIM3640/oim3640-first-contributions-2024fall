@@ -1,2 +1,4 @@
 - [Zhi Li](https://github.com/lzblack)
 - [Youssef Kamel](https://github.com/youssefkamel)
+- [Jonathan Amitai] (https://github.com/jamitai/oim3640-first-contributions-2024fall)
+- [William Qu](https://github.com/willq123)
