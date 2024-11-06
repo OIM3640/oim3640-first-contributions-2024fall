@@ -5,3 +5,4 @@
 - [William Qu](https://github.com/willq123)
 - [Yinxiao He](https://github.com/lzblack)
 - [Amy Meng](https://github.com/rmeng0428)
+- [Christian Aiza](https://github.com/caizahojel1)
