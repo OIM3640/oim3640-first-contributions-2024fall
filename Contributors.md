@@ -1,7 +1,7 @@
 - [Zhi Li](https://github.com/lzblack)
 - [Youssef Bensaid](https://github.com/git-youssef)
 - [Edoardo Nardi](https://github.com/edoardonardi)
-- [Jonathan Amitai](https://github.com/jamitai/oim3640-first-contributions-2024fall)
+- [Jonathan Amitai](https://github.com/jamitai)
 - [William Qu](https://github.com/willq123)
 - [Yinxiao He](https://github.com/lzblack)
 - [Amy Meng](https://github.com/rmeng0428)
