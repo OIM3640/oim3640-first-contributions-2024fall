@@ -1,1 +1,2 @@
 - [Zhi Li](https://github.com/lzblack)
+- [Valentina Atala] (https://github.com/valeatala/oim3640-first-contributions-2024fall.git)
