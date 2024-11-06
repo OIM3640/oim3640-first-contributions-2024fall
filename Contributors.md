@@ -8,5 +8,4 @@
 - [Christian Aiza](https://github.com/caizahojel1)
 - [Vanessa Bravo](https://github.com/vbravogomez1)
 - [Youssef Kamel](https://github.com/youssefkamel)
-- [William Qu](https://github.com/willq123)
 - [Valentina Atala](https://github.com/valeatala)
