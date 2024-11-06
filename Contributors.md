@@ -1,1 +1,2 @@
 - [Zhi Li](https://github.com/lzblack)
+- [Edoardo Nardi](https://github.com/edoardonardi)
