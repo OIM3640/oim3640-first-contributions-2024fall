@@ -4,3 +4,4 @@
 - [Jonathan Amitai](https://github.com/jamitai/oim3640-first-contributions-2024fall)
 - [William Qu](https://github.com/willq123)
 - [Yinxiao He](https://github.com/lzblack)
+- [Amy Meng](https://github.com/rmeng0428)
